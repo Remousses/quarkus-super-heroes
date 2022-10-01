@@ -1,0 +1,36 @@
+#Maven
+**/target/
+**/META-INF/
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/release.properties
+
+#NPM
+**/node_modules/
+**/package-lock.json
+**/.browserslistrc
+
+#Swagger
+**/.swagger-codegen/
+**/.swagger-codegen-ignore
+
+# Eclipse
+.editorconfig
+**/.project
+**/.classpath
+**/.settings
+**/bin/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# Visual Studio Code
+.vscode
+.factorypath
+
+# Local environment
+.env
